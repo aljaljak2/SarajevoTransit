@@ -1,3 +1,6 @@
+> **Note:** This project was co-developed as a collaborative microservices platform.
+> 
+> **Main Contributions:** Architecture design, API Gateway security (JWT/RSA), service implementation, and RabbitMQ event integration.
 # SarajevoTransit
 
 Microservice-based public transit management system for Sarajevo.
